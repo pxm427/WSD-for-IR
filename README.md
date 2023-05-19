@@ -1,6 +1,6 @@
 # Query Generation using GPT-3 for CLIP-based WSD for IR
 
-**Update**  
+## Summary
 
 To be appeared in star SEM 2023.
 Authors: Xiaomeng Pan, Zhousi Chen, Mamoru Komachi
@@ -10,7 +10,8 @@ Simple words for introducing our work are below, if you are interested in our re
 
 ## Resource
 
-Here we use the dataset released from SemEval 2023 task 1. Three language versions (English, Farsi, Italian) of the dataset are available, we only use English version in our research.
+Here we use the dataset released from SemEval 2023 task 1. 
+Three language versions (English, Farsi, Italian) of the dataset are available, we only use English version in our research.
 You can check them on their website → https://raganato.github.io/vwsd/
 
 ## Method
