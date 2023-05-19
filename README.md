@@ -6,7 +6,7 @@ To be appeared in star SEM 2023.
 
 Authors: Xiaomeng Pan, Zhousi Chen, Mamoru Komachi
 
-Here are codes of <Query Generation using GPT-3 for CLIP-based WSD for IR> mentioned in our paper.  
+Here are codes of Query Generation using GPT-3 for CLIP-based WSD for IR mentioned in our paper.  
 
 Simple words for introducing our work are below, if you are interested in our research, please refer to our paper, Thanks.
 
